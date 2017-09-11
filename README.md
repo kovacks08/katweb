@@ -1,2 +1,2 @@
-# katweb
-This is Katka's webpage test
+# Katweb
+Proves per la web de la Katka per AWS i ReactJS
